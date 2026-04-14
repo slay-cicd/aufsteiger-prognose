@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+3:I[4022,["235","static/chunks/235-60f7bddebd3db3cc.js","177","static/chunks/app/layout-6faa9bcac6afa4f1.js"],"default"]
+4:I[5430,[],""]
+5:I[5020,[],""]
+6:I[6235,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-6e259afbc4e29244.js"],""]
+8:I[8606,[],"MetadataBoundary"]
+a:I[8606,[],"OutletBoundary"]
+d:I[1534,[],"AsyncMetadataOutlet"]
+f:I[8606,[],"ViewportBoundary"]
+11:I[5473,[],""]
+:HL["/_next/static/css/2a4ccbedf12a3e06.css","style"]
+2:T788,
+(function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".split(" ");a.get_group=function(){function b(c){d[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));a.push([e,call2])}}for(var d={},e=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<j.length;c++)b(j[c]);return d};b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^///)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
+mixpanel.init("1e4c480d84cd0fd22031ffc141447183");
+mixpanel.register({site_name: "Aufsteiger Prognose"});
+mixpanel.track_pageview();
+            0:{"P":null,"b":"CFQ849S0iXWV9TpeHZk_6","p":"","c":["","blog","auf-abstieg-vorhersage-modell-erstellen",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","auf-abstieg-vorhersage-modell-erstellen","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2a4ccbedf12a3e06.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"antialiased","style":{"backgroundColor":"#FAFAF7"},"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center px-4","children":["$","div",null,{"className":"text-center","children":[["$","span",null,{"className":"text-8xl font-black text-[rgba(255,255,255,0.06)] block mb-4","children":"404"}],["$","h1",null,{"className":"text-2xl font-bold text-white mb-3 tracking-tight","children":"Seite nicht gefunden"}],["$","p",null,{"className":"text-[#64748b] mb-8 max-w-sm mx-auto","children":"Die gesuchte Seite existiert nicht oder wurde verschoben."}],["$","div",null,{"className":"flex flex-wrap gap-3 justify-center","children":[["$","$L6",null,{"href":"/","className":"btn-primary","children":"Zur Startseite"}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-ghost","children":"Atlas Markets"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-24 border-t border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":["$","div",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-3 gap-10 mb-10","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-serif text-[1rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Aufsteiger Prognose"}],["$","p",null,{"className":"text-xs leading-relaxed","style":{"color":"#6B7280"},"children":"Expertenwissen zu Fußball-Prediction Markets und Sportwetten."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Netzwerk"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","https://atlasmarkets.de",{"children":["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Markets"}]}],["$","li","https://bundesliga-prediction.de",{"children":["$","a",null,{"href":"https://bundesliga-prediction.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Bundesliga Prognose"}]}],["$","li","https://spieltag-vorhersage.de",{"children":["$","a",null,{"href":"https://spieltag-vorhersage.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Spieltag Vorhersage"}]}],["$","li","https://derby-analyse.de",{"children":["$","a",null,{"href":"https://derby-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Derby Analyse"}]}],["$","li","https://torjaeger-ranking.de",{"children":["$","a",null,{"href":"https://torjaeger-ranking.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Torjäger Ranking"}]}],["$","li","https://trainerwechsel-analyse.de",{"children":["$","a",null,{"href":"https://trainerwechsel-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Trainerwechsel Analyse"}]}],["$","li","https://talente-radar.de",{"children":["$","a",null,{"href":"https://talente-radar.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Talente Radar"}]}],["$","li","https://champions-league-analyse.de",{"children":["$","a",null,{"href":"https://champions-league-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Champions League Analyse"}]}],["$","li","https://europa-league-prognose.de",{"children":["$","a",null,{"href":"https://europa-league-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Europa League Prognose"}]}],["$","li","https://em-prognose.de",{"children":["$","a",null,{"href":"https://em-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"EM Prognose"}]}],["$","li","https://dfb-pokal-analyse.de",{"children":["$","a",null,{"href":"https://dfb-pokal-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"DFB Pokal Analyse"}]}],["$","li","https://wm-vorhersagen.de",{"children":["$","a",null,{"href":"https://wm-vorhersagen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"WM Vorhersagen"}]}],["$","li","https://ohne-lugas.de",{"children":["$","a",null,{"href":"https://ohne-lugas.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Ohne Lugas"}]}],["$","li","https://slay-cicd.github.io/fussball-statistik",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/fussball-statistik","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Statistik"}]}],["$","li","https://fussball-prognose.de",{"children":["$","a",null,{"href":"https://fussball-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Vorhersage"}]}],["$","li","https://slay-cicd.github.io/atlas-insights",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/atlas-insights","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Insights"}]}],["$","li","https://transfermarkt-prognosen.de",{"children":["$","a",null,{"href":"https://transfermarkt-prognosen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Transfermarkt Prognosen"}]}],["$","li","https://slay-cicd.github.io/fussball-finanzen",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/fussball-finanzen","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Finanzen"}]}],["$","li","https://fussball-trading.de",{"children":["$","a",null,{"href":"https://fussball-trading.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Trading"}]}],["$","li","https://fussball-quoten.de",{"children":["$","a",null,{"href":"https://fussball-quoten.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Quoten"}]}],["$","li","https://wettmarkt-vergleich.de",{"children":["$","a",null,{"href":"https://wettmarkt-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Wettmarkt Vergleich"}]}],["$","li","https://sportwetten-alternative.de",{"children":["$","a",null,{"href":"https://sportwetten-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Sportwetten Alternative"}]}],["$","li","https://polymarket-alternative.de",{"children":["$","a",null,{"href":"https://polymarket-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Alternative"}]}],["$","li","https://polymarket-deutschland.de",{"children":["$","a",null,{"href":"https://polymarket-deutschland.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Deutschland"}]}],["$","li","https://kalshi-alternative.de",{"children":["$","a",null,{"href":"https://kalshi-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Kalshi Alternative"}]}],["$","li","https://prediction-market-guide.de",{"children":["$","a",null,{"href":"https://prediction-market-guide.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Guide"}]}],["$","li","https://prediction-market-vergleich.de",{"children":["$","a",null,{"href":"https://prediction-market-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Vergleich"}]}],["$","li","https://prognosemarkt.org",{"children":["$","a",null,{"href":"https://prognosemarkt.org","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prognosemarkt"}]}],["$","li","https://mein-prognosemarkt.de",{"children":["$","a",null,{"href":"https://mein-prognosemarkt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Mein Prognosemarkt"}]}],["$","li","https://vorhersage-markt.de",{"children":["$","a",null,{"href":"https://vorhersage-markt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Vorhersage Markt"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Rechtliches"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L6",null,{"href":"/impressum","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Impressum"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/datenschutz","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Datenschutz"}]}]]}]]}]]}],["$","div",null,{"className":"divider mb-6"}],["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-3","children":[["$","p",null,{"className":"text-xs","style":{"color":"#9CA3AF"},"children":["© ",2026," ","SLAY GmbH",". Alle Rechte vorbehalten."]}],["$","p",null,{"className":"text-xs text-center","style":{"color":"#9CA3AF"},"children":"18+ | Glücksspiel kann süchtig machen. Spiel verantwortungsbewusst."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs font-medium hover:text-[#15803d] transition-colors duration-200","style":{"color":"#16a34a"},"children":"atlasmarkets.de"}]]}]]}]}]]}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","auf-abstieg-vorhersage-modell-erstellen","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","MLmY25Ghl_hcOfH8f-vHS",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[1534,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+16:I[7191,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-6e259afbc4e29244.js"],"default"]
+15:T2c5d,<h2>Warum du ein eigenes Modell brauchst</h2>
+<p>Prognosen aus der Zeitung, Twitter-Meinungen, Fan-Blogs: Der Informationsmarkt rund um Auf- und Abstiege im deutschen Fußball ist riesig und laut. Und meistens falsch.</p>
+<p>Das Problem: Die meisten Meinungen basieren auf dem letzten Spielergebnis, emotionalen Eindrücken oder bestätigenden Erzählungen. Niemand hat wirklich eine Methodik.</p>
+<p>Wenn du auf <a href="https://atlasmarkets.de">Atlas Markets</a> konsistent profitabel sein willst, brauchst du nicht die perfekte Prognose – du brauchst nur eine bessere als den Markt. Und dafür reicht ein einfaches, diszipliniert angewendetes Modell.</p>
+<p>In diesem Guide führen wir dich Schritt für Schritt durch den Aufbau eines eigenen Auf-/Abstiegs-Vorhersagemodells.</p>
+<h2>Phase 1: Datengrundlage aufbauen</h2>
+<h3>Die drei Datenquellen, die du brauchst</h3>
+<p><strong>Understat.com</strong> – Die beste kostenlose Quelle für xG-Daten in der Bundesliga und 2. Bundesliga. Hier findest du:</p>
+<ul>
+<li>xG und xGA (Expected Goals Against) pro Spiel</li>
+<li>Kumulative xG über die Saison</li>
+<li>xG-Daten nach Heim-/Auswärtsspielen getrennt</li>
+</ul>
+<p><strong>FBRef.com</strong> – Erweiterte Statistiken mit:</p>
+<ul>
+<li>PSxG (Post-Shot Expected Goals) für Torhüter</li>
+<li>Pressing-Statistiken (PPDA = Passes Allowed Per Defensive Action)</li>
+<li>Set-Piece-Daten</li>
+<li>Passing-Netzwerke und Positionsdaten</li>
+</ul>
+<p><strong>Transfermarkt.de</strong> – Für Kaderwerte und Verletzungshistorie:</p>
+<ul>
+<li>Gesamtkaderwert (guter Proxy für Teamqualität)</li>
+<li>Verletzungshistorie der Stammspieler</li>
+<li>Kaderbreite (wie viele gleichwertige Alternativen gibt es auf jeder Position?)</li>
+</ul>
+<h3>Daten strukturieren</h3>
+<p>Erstelle eine Tabelle (Excel oder Google Sheets) mit folgenden Spalten:</p>
+<pre><code>Team | Spieltag | xG | xGA | Tore | Gegentore | 
+Punkte | Kumulativer xG-Saldo | Verletzte (Stammspieler)
+</code></pre>
+<p>Aktualisiere diese Tabelle nach jedem Spieltag. Das klingt aufwendig – in der Praxis sind es 15-20 Minuten pro Woche.</p>
+<h2>Phase 2: Das Basis-Modell</h2>
+<h3>Der einfachste funktionierende Ansatz: xG-basierter Punktestand</h3>
+<p><strong>Idee:</strong> Berechne, wie viele Punkte ein Team auf Basis seiner xG-Daten "verdient" hätte – nicht auf Basis der tatsächlichen Tore.</p>
+<p><strong>Methode:</strong></p>
+<ol>
+<li>Nimm den xG-Wert für jedes Spiel (Heim und Auswärts)</li>
+<li>Verwende ein Poisson-Modell, um die Wahrscheinlichkeit für Sieg/Unentschieden/Niederlage zu berechnen</li>
+<li>Berechne die "erwarteten Punkte" (xPoints) für jedes Spiel</li>
+<li>Summiere die xPoints über die Saison</li>
+</ol>
+<p><strong>Das Ergebnis:</strong> Ein "xPoints-Tabellenstand", der zeigt, wie die Tabelle aussehen sollte – ohne Glückseinflüsse.</p>
+<h3>Warum xPoints so wertvoll sind</h3>
+<p>Teams mit deutlich mehr realen Punkten als xPoints werden sich zur Mitte hin normalisieren. Teams mit weniger realen Punkten als xPoints werden sich erholen.</p>
+<p>Diese Reversion-to-Mean ist das Herzstück deines Modells. Du weißt nicht, wann die Normalisierung kommt – aber du weißt, dass sie kommt.</p>
+<p><strong>Konkrete Anwendung:</strong></p>
+<ul>
+<li>Team hat 32 reale Punkte, aber nur 26 xPoints → Wahrscheinlich zu hoch in der Tabelle, Abstiegsrisiko wird unterschätzt</li>
+<li>Team hat 26 reale Punkte, aber 32 xPoints → Wahrscheinlich zu tief, Erholung wahrscheinlich</li>
+</ul>
+<h3>Das Poisson-Modell im Detail</h3>
+<p>Das Poisson-Modell berechnet die Wahrscheinlichkeit für eine bestimmte Torzahl:</p>
+<pre><code>P(k Tore) = (λ^k × e^(-λ)) / k!
+</code></pre>
+<p>Wobei λ die erwartete Torzahl ist (aus xG-Daten).</p>
+<p>Für die Praxis reicht es, eine vereinfachte Tabelle zu verwenden:</p>
+<table>
+<thead>
+<tr>
+<th>xG-Wert</th>
+<th>P(0 Tore)</th>
+<th>P(1 Tor)</th>
+<th>P(2+ Tore)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0,5</td>
+<td>61%</td>
+<td>30%</td>
+<td>9%</td>
+</tr>
+<tr>
+<td>1,0</td>
+<td>37%</td>
+<td>37%</td>
+<td>26%</td>
+</tr>
+<tr>
+<td>1,5</td>
+<td>22%</td>
+<td>33%</td>
+<td>45%</td>
+</tr>
+<tr>
+<td>2,0</td>
+<td>14%</td>
+<td>27%</td>
+<td>59%</td>
+</tr>
+</tbody>
+</table>
+<p>Kombiniere die Wahrscheinlichkeiten für beide Teams, um Sieg/Unentschieden/Niederlage zu berechnen.</p>
+<h2>Phase 3: Das erweiterte Modell</h2>
+<p>Das Basis-Modell gibt dir einen Vorsprung gegenüber dem Markt. Aber mit einigen Erweiterungen wird es deutlich präziser.</p>
+<h3>Erweiterung 1: Gewichtung nach Aktualität</h3>
+<p>Die letzten 8 Spieltage sind relevanter als die ersten 10. Baue eine exponentielle Gewichtung ein:</p>
+<pre><code>Gewicht(Spieltag n) = e^(α × (n - aktueller Spieltag))
+</code></pre>
+<p>Wobei α = 0,05-0,1 ein guter Startpunkt ist. Das bedeutet: Das letzte Spiel zählt etwa doppelt so viel wie ein Spiel vor 14 Wochen.</p>
+<p><strong>Praktischer Ansatz:</strong> Teile die Saison in drei Phasen. Phase 1 (Spieltage 1-12) zählt zu 20%, Phase 2 (13-24) zu 35%, Phase 3 (25-34) zu 45%.</p>
+<h3>Erweiterung 2: Restprogramm-Schwierigkeit</h3>
+<p>Dein Modell schaut bisher nur zurück. Für Auf-/Abstiegsprognosen musst du auch vorausschauen.</p>
+<p><strong>Methode:</strong></p>
+<ol>
+<li>Berechne für jedes verbleibende Spiel die Wahrscheinlichkeit für 3 Punkte, 1 Punkt, 0 Punkte (basierend auf dem Modell)</li>
+<li>Summiere diese "erwarteten zukünftigen Punkte"</li>
+<li>Addiere aktuelle Punkte + erwartete zukünftige Punkte = Saisonendpunkte-Prognose</li>
+</ol>
+<p><strong>Vereinfachung:</strong> Nutze die xPoints-Tabellenposition des Gegners als Proxy für seine Stärke. Ein Team auf xPoints-Rang 3 ist ein schwerer Gegner, eines auf Rang 15 ein leichter.</p>
+<h3>Erweiterung 3: Verletzungs-Adjustment</h3>
+<p>Verletzungen wichtiger Spieler reduzieren die erwartete Teamleistung messbar. Eine vereinfachte Schätzung:</p>
+<ul>
+<li>Ausfall Stamm-Torhüter: -0,15 xPoints pro Spiel</li>
+<li>Ausfall bester Stürmer: -0,12 xPoints pro Spiel</li>
+<li>Ausfall Stamm-Innenverteidiger: -0,08 xPoints pro Spiel</li>
+<li>Ausfall zentraler Mittelfeldspieler: -0,07 xPoints pro Spiel</li>
+</ul>
+<p>Multipliziere mit der Anzahl der betroffenen Spiele und passe deine Saisonendprognose an.</p>
+<h2>Phase 4: Modell validieren und kalibrieren</h2>
+<h3>Backtesting</h3>
+<p>Bevor du dein Modell live einsetzt, teste es an historischen Daten. Nimm die letzten 3-5 Bundesliga-Saisons:</p>
+<ol>
+<li>Berechne die Saisonendpunkte-Prognose nach Spieltag 26 (8 Spieltage vor Ende)</li>
+<li>Vergleiche mit dem tatsächlichen Ergebnis</li>
+<li>Berechne den Mean Absolute Error (MAE): Durchschnittliche Abweichung pro Team</li>
+</ol>
+<p>Ein gutes Modell hat nach Spieltag 26 einen MAE von 3-4 Punkten. Das klingt nach viel, ist aber im Fußball-Kontext ein gutes Ergebnis.</p>
+<h3>Kalibrierung</h3>
+<p>Überprüfe, ob dein Modell systematisch über- oder unterschätzt:</p>
+<ul>
+<li>Wenn dein Modell dauerhaft zu optimistisch für Aufsteiger ist → Adjustiere mit einem Abschlag für "neue Ligaerfahrung"</li>
+<li>Wenn Abstiegsmannschaften systematisch besser abschneiden als prognostiziert → Erhöhe den Koeffizienten für "Abstiegskampf-Motivation"</li>
+</ul>
+<p>Kalibrierung ist ein iterativer Prozess. Führe ein Protokoll deiner Prognosen und tatsächlichen Ergebnisse, um Muster zu erkennen.</p>
+<h2>Phase 5: Modell in Prediction-Market-Trades umsetzen</h2>
+<p>Ein Modell zu haben ist eine Sache – es profitabel einzusetzen eine andere.</p>
+<h3>Schritt 1: Wahrscheinlichkeit berechnen</h3>
+<p>Dein Modell gibt dir eine Saisonendpunkt-Prognose. Wie rechnest du das in Auf-/Abstiegswahrscheinlichkeiten um?</p>
+<p><strong>Methode:</strong> Monte-Carlo-Simulation</p>
+<ol>
+<li>Lass dein Modell 1.000 (oder 10.000) Saisonverläufe simulieren, mit realistischer Varianz pro Spiel</li>
+<li>Zähle, in wie vielen Simulationen jedes Team absteigt oder aufsteigt</li>
+<li>Diese Rate ist deine Wahrscheinlichkeitsschätzung</li>
+</ol>
+<p>Ohne Programmierkenntnisse: Nutze eine vereinfachte Lookup-Table, die du einmalig erstellst und anpasst.</p>
+<h3>Schritt 2: Edge berechnen</h3>
+<p>Edge = Deine Wahrscheinlichkeit - Marktwahrscheinlichkeit (von <a href="https://atlasmarkets.de">Atlas Markets</a>)</p>
+<p>Nur wenn Edge > 8-10 Prozentpunkte → Trade eröffnen.</p>
+<h3>Schritt 3: Position sizing mit Kelly</h3>
+<pre><code>f* = (p × b - q) / b
+</code></pre>
+<p>Wobei:</p>
+<ul>
+<li>p = deine Wahrscheinlichkeit</li>
+<li>q = 1 - p</li>
+<li>b = Auszahlung minus 1 (bei Preis von 0,40 = 1,5x Auszahlung, also b = 1,5)</li>
+</ul>
+<p><strong>Sicherheitsregel:</strong> Verwende nie mehr als die halbe Kelly-Empfehlung. Full Kelly ist theoretisch optimal, führt aber zu extremen Drawdowns.</p>
+<h3>Schritt 4: Positions-Management</h3>
+<ul>
+<li>Aktualisiere dein Modell nach jedem Spieltag</li>
+<li>Wenn dein geschätzter Edge auf unter 5% sinkt → Position schließen</li>
+<li>Wenn neues Edge über 15% entsteht → Position erhöhen (bis zum halben Kelly-Maximum)</li>
+</ul>
+<h2>Häufige Fehler und wie du sie vermeidest</h2>
+<p><strong>Fehler 1: Zu viele Variablen</strong>
+Mehr Variablen = mehr Overfitting. Beginne mit 3-4 Variablen (xG, xGA, Restprogramm, Verletzungen) und füge nur dann neue hinzu, wenn du statistisch signifikante Verbesserungen siehst.</p>
+<p><strong>Fehler 2: Backtesting-Bias</strong>
+Wenn du dein Modell an denselben Daten testest, mit denen du es entwickelt hast, schaust du in den Rückspiegel. Teste immer an Daten, die nicht für die Modellerstellung verwendet wurden (Out-of-Sample-Test).</p>
+<p><strong>Fehler 3: Ignorieren des Marktpreises als Signal</strong>
+Der Marktpreis auf <a href="https://atlasmarkets.de">Atlas Markets</a> ist kein Lärm – er ist das aggregierte Wissen tausender Händler. Wenn dein Modell massiv vom Markt abweicht (>20 Prozentpunkte), solltest du zuerst nach Fehlern in deinem Modell suchen.</p>
+<p><strong>Fehler 4: Keine Buchführung</strong>
+Führe ein detailliertes Protokoll aller Trades: Einstiegspreis, Ausstiegspreis, deine Modellschätzung, tatsächliches Ergebnis. Nur so kannst du langfristig lernen und verbessern.</p>
+<h2>Tools für die Umsetzung</h2>
+<p><strong>Google Sheets</strong> – Kostenlos, ausreichend für einfache Modelle, gut für Zusammenarbeit</p>
+<p><strong>Python (optional)</strong> – Für Monte-Carlo-Simulationen und automatisches Daten-Scraping. Die Libraries <code>pandas</code>, <code>numpy</code> und <code>scipy</code> decken 90% der benötigten Funktionen ab.</p>
+<p><strong>Atlas Markets</strong> – Als Referenzpreisquelle und Handelsplattform. Die Marktpreise sind öffentlich und können als tägliche Kalibrierung deines Modells dienen.</p>
+<h2>Fazit: Modellieren ist ein Handwerk</h2>
+<p>Ein gutes Vorhersagemodell für Auf- und Abstiege im deutschen Fußball ist kein Hexenwerk. Es erfordert Disziplin beim Daten sammeln, Ehrlichkeit beim Backtesting und Geduld beim Warten auf klare Edges.</p>
+<p>Das Ziel ist nicht, immer recht zu haben. Das Ziel ist, im Durchschnitt eine bessere Trefferquote als der Markt zu haben – und damit langfristig profitabel zu sein.</p>
+<p>Starte noch heute, baue dein Modell Schritt für Schritt auf, und teste es zunächst mit kleinen Positionen auf <strong><a href="https://atlasmarkets.de">Atlas Markets</a></strong> – Europas führende Prediction-Market-Plattform für Fußball-Vorhersagen.</p>
+7:[["$","div",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pt-[100px] pb-10","children":[["$","nav",null,{"className":"flex items-center gap-2 text-xs mb-10","aria-label":"Breadcrumb","style":{"color":"#9CA3AF"},"children":[["$","$L6",null,{"href":"/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Aufsteiger Prognose"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L6",null,{"href":"/blog/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Artikel"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"className":"truncate max-w-[200px]","style":{"color":"#6B7280"},"children":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","modellierung",{"className":"tag-pill","children":"modellierung"}],["$","span","strategie",{"className":"tag-pill","children":"strategie"}],["$","span","daten",{"className":"tag-pill","children":"daten"}]]}],["$","h1",null,{"className":"font-serif text-[2.25rem] sm:text-[2.75rem] font-bold tracking-tight leading-[1.2] mb-6","style":{"color":"#1A1A1A"},"children":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase mb-8","style":{"color":"#9CA3AF"},"children":["14. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],7," Min. Lesezeit",[["$","span",null,{"className":"mx-2","children":"·"}],"Redaktion"]]}],["$","div",null,{"className":"divider"}]]}],["$","article",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pb-20","children":[["$","p",null,{"className":"text-[1.125rem] leading-relaxed mb-10 border-l-[3px] border-[#16a34a] pl-5","style":{"color":"#6B7280","fontFamily":"var(--font-serif, Georgia, serif)","fontStyle":"italic"},"children":"Wie baust du dein eigenes Vorhersagemodell für Auf- und Abstiege im deutschen Fußball? Eine praktische Anleitung von Datenquellen bis zur Modellierung – inklusive Prediction-Market-Anwendung auf Atlas Markets."}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","div",null,{"className":"mt-14 divider"}],["$","div",null,{"className":"mt-10 rounded-lg p-8 text-center border border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":[["$","p",null,{"className":"font-serif text-[1.125rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Bereit, dein Wissen einzusetzen?"}],["$","p",null,{"className":"text-sm mb-6","style":{"color":"#6B7280"},"children":"Auf Atlas Markets kannst du auf Fußball-Prediction Markets handeln."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-primary","children":"Zu Atlas Markets →"}]]}]]}],["$","section",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 pb-24","children":[["$","$L16",null,{"children":[["$","div",null,{"className":"divider mb-12"}],["$","div",null,{"className":"flex items-end justify-between mb-10","children":[["$","h2",null,{"className":"font-serif text-[1.5rem] font-bold tracking-tight","style":{"color":"#1A1A1A"},"children":"Ähnliche Artikel"}],["$","$L6",null,{"href":"/blog/","className":"text-sm text-[#16a34a] hover:text-[#15803d] transition-colors duration-200","children":"Alle Artikel →"}]]}]]}],["$","$L16",null,{"stagger":true,"children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10","children":[["$","article","was-sind-prediction-markets",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/was-sind-prediction-markets/","className":"group block","aria-label":"Artikel lesen: Was sind Prediction Markets? Der ultimative Guide für Fußball-Wetter","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","prediction",{"className":"tag-pill","children":"prediction"}],["$","span","strategie",{"className":"tag-pill","children":"strategie"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Was sind Prediction Markets? Der ultimative Guide für Fußball-Wetter"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Prediction Markets revolutionieren die Sportwetten-Welt. Erfahre, wie sie funktionieren, warum sie präziser als klassische Wettbüros sind – und wie du davon profitieren kannst."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["15. März 2024",["$","span",null,{"className":"mx-2","children":"·"}],2," Min. Lesezeit"]}]]}]}],["$","article","relegation-bundesliga-statistische-analyse",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/relegation-bundesliga-statistische-analyse/","className":"group block","aria-label":"Artikel lesen: Bundesliga Relegation: Statistische Analyse und Prediction-Market-Strategien","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","relegation",{"className":"tag-pill","children":"relegation"}],["$","span","statistik",{"className":"tag-pill","children":"statistik"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Bundesliga Relegation: Statistische Analyse und Prediction-Market-Strategien"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Wie wahrscheinlich ist ein Bundesliga-Aufstieg über die Relegation? Vollständige statistische Analyse der Bundesliga-Relegationsspiele und Strategien für Prediction-Market-Händler auf Atlas Markets."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["14. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],7," Min. Lesezeit"]}]]}]}],["$","article","bundesliga-wettstrategien-2024",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/bundesliga-wettstrategien-2024/","className":"group block","aria-label":"Artikel lesen: Bundesliga Wettstrategien 2024/25: So gewinnst du mit Datenanalyse","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","bundesliga",{"className":"tag-pill","children":"bundesliga"}],["$","span","strategie",{"className":"tag-pill","children":"strategie"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Bundesliga Wettstrategien 2024/25: So gewinnst du mit Datenanalyse"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Die besten Bundesliga-Wettstrategien für die Saison 2024/25. Von Expected Goals bis zu Heimvorteil-Statistiken – so nutzt du Daten für bessere Vorhersagen."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["10. März 2024",["$","span",null,{"className":"mx-2","children":"·"}],3," Min. Lesezeit"]}]]}]}]]}]}]]}]]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung | Aufsteiger Prognose"}],["$","meta","1",{"name":"description","content":"Wie baust du dein eigenes Vorhersagemodell für Auf- und Abstiege im deutschen Fußball? Eine praktische Anleitung von Datenquellen bis zur Modellierung – inklusive Prediction-Market-Anwendung auf Atlas Markets."}],["$","meta","2",{"name":"author","content":"SLAY GmbH"}],["$","meta","3",{"name":"keywords","content":"Prediction Markets,Fußball Wetten,Sportwetten,Wettmarkt,Atlas Markets,Bundesliga"}],["$","meta","4",{"name":"creator","content":"SLAY GmbH"}],["$","meta","5",{"name":"publisher","content":"SLAY GmbH"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","8",{"rel":"canonical","href":"https://aufsteiger-prognose.de/blog/auf-abstieg-vorhersage-modell-erstellen/"}],["$","meta","9",{"property":"og:title","content":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}],["$","meta","10",{"property":"og:description","content":"Wie baust du dein eigenes Vorhersagemodell für Auf- und Abstiege im deutschen Fußball? Eine praktische Anleitung von Datenquellen bis zur Modellierung – inklusive Prediction-Market-Anwendung auf Atlas Markets."}],["$","meta","11",{"property":"og:url","content":"https://aufsteiger-prognose.de/blog/auf-abstieg-vorhersage-modell-erstellen/"}],["$","meta","12",{"property":"og:image","content":"https://aufsteiger-prognose.de/og-image.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}],["$","meta","19",{"name":"twitter:description","content":"Wie baust du dein eigenes Vorhersagemodell für Auf- und Abstiege im deutschen Fußball? Eine praktische Anleitung von Datenquellen bis zur Modellierung – inklusive Prediction-Market-Anwendung auf Atlas Markets."}],["$","meta","20",{"name":"twitter:image","content":"https://aufsteiger-prognose.de/og-image.png"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","meta","23",{"name":"twitter:image:alt","content":"Eigenes Auf-/Abstiegs-Vorhersagemodell erstellen: Schritt-für-Schritt-Anleitung"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
